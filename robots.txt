@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huntersvillewaterheaterco.com/sitemap.xml
